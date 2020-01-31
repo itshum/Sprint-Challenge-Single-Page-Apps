@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: A client-side route happens when the route is handled internally by JS that's loaded on the page. Some pros of using client side routing is that webpages tend to load faster. There are also smoother transitions between animations and views.  
 
 ## Project Set Up
 
